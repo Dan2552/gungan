@@ -1,5 +1,6 @@
 require "require_all"
 require "pry"
+require "parser/current"
 require_all "./gungan"
 
 argument = ARGV[0]
